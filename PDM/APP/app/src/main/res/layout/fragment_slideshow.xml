@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#6EA370"
+    tools:context=".ui.slideshow.SlideshowFragment">
+
+    <Button
+        android:id="@+id/bt_foto"
+        android:layout_width="148dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="160dp"
+        android:text="Foto"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:name="android.permission.CAMERA"
+        android:layout_width="243dp"
+        android:layout_height="229dp"
+        android:layout_marginTop="156dp"
+        android:backgroundTint="#604646"
+        android:foreground="@android:color/transparent"
+        android:src="@drawable/ic_menu_camera"
+        app:layout_constraintBottom_toTopOf="@+id/bt_foto"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.197"
+        tools:src="#6EA370" />
+</androidx.constraintlayout.widget.ConstraintLayout>
