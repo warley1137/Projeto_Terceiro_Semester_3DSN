@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Cadastro</title>
+    <meta name="keywords" content="">
+	<meta name="description" content="">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="shortcut icon" href="assets/img/skate1.png">
+	<!-- =================== STYLE =================== -->
+	<link rel="stylesheet" href="assets/css/slick.min.css">
+	<link rel="stylesheet" href="assets/css/bootstrap-grid.css">
+	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+	<link rel="stylesheet" href="assets/css/nice-select.css">
+	<link rel="stylesheet" href="assets/css/animate.css">
+	<link rel="stylesheet" href="assets/css/style.css">
+    <!-- <link rel="stylesheet" href="assets/css/cadastro.css"> -->
+    <style>
+        body{
+            overflow: auto; /* Adiciona barras de rolagem quando necessário */
+        }
+        .formcadastro  {
+            max-width: 900px;
+            margin: 20px auto;
+            background-color: #f5e9e9;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+           
+        }
+     
+    </style>
+    
+</head>
+<body>
+  
+    <header class="header">
+		<a href="#" class="nav-btn">
+			<span></span>
+			<span></span>
+			<span></span>
+		</a>
+		<div class="top-panel">
+			<div class="container">
+				<div class="top-panel-cover">
+					<ul class="header-cont">
+						<!-- <li><a href="tel:+912345687"><i class="fa fa-phone"></i>+9123 456 87</a></li>
+						<li><a href="mailto:creto@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i>creto@gmail.com</a></li> -->
+					</ul>
+					<ul class="icon-right-list">
+						<li><a class="header-like" href="#"><i class="fa fa-heart" aria-hidden="true"></i><span>6</span></a></li>
+						<li><a class="header-user" href="#"><i class="fa fa-user" aria-hidden="true"></i></a></li>
+						<li><a class="header-cart" href="#"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="header-menu">
+			<div class="container">
+				<a href="index.html" class="logo"><img src="assets/img/logo.svg" alt="logo"></a>
+				<nav class="nav-menu">
+					<ul class="nav-list">
+						<li class="dropdown">
+							<a href="#">Home <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+							<ul>
+								<li class="active"><a href="index.html">Home Claro</a></li>
+								<li><a href="home-two.html">Home Escuro</a></li>
+							</ul>
+						</li>
+						<li><a href="services.html">Serviços</a></li>
+						<li><a href="shop.html">Loja</a></li>
+						<li><a href="gallery.html">Galeria</a></li>
+						<li class="dropdown">
+							<a href="#">Outros <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+							<ul>
+								<li><a href="about.html">Sobre Nós</a></li>
+								<li><a href="news.html">Notícias</a></li>
+								<li><a href="404.html">Page error 404</a></li>
+							</ul>
+						</li>
+						<li><a href="contacts.html">Contatos</a></li>
+						<li><a href="cadastro.html">Cadrastro</a></li>
+							</ul>
+				</nav>
+			</div>
+		</div>
+	</header>
+
+
+
+<div class="formcadastro">
+
+
+
+<div class="flex flex-col justify-center py-12 sm:px-6 lg:px-8">
+
+    <div class="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
+      <div class="bg-white py-8 px-4 shadow sm:rounded-lg sm:px-10">
+        <form method="POST" action="#">
+          <div>
+            <label class="block text-sm font-medium text-gray-700" for="username">
+              Username
+            </label>
+            <div class="mt-1">
+              <input class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" required="" autocomplete="username" type="text" name="username" id="username">
+            </div>
+          </div>
+  
+          <div class="mt-6">
+            <label class="block text-sm font-medium text-gray-700" for="email">
+              Email address
+            </label>
+            <div class="mt-1">
+              <input class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" required="" autocomplete="email" type="email" name="email" id="email">
+            </div>
+          </div>
+  
+          <div class="mt-6">
+            <label class="block text-sm font-medium text-gray-700" for="confirm-email">
+              Confirm Email address
+            </label>
+            <div class="mt-1">
+              <input class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" required="" autocomplete="email" type="email" name="confirm-email" id="confirm-email">
+            </div>
+          </div>
+  
+          <div class="mt-6">
+            <label class="block text-sm font-medium text-gray-700" for="password">
+              Password
+            </label>
+            <div class="mt-1">
+              <input class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" required="" autocomplete="current-password" type="password" name="password" id="password">
+            </div>
+          </div>
+  
+          <div class="mt-6">
+            <label class="block text-sm font-medium text-gray-700" for="confirm-password">
+              Confirm Password
+            </label>
+            <div class="mt-1">
+              <input class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" required="" autocomplete="current-password" type="password" name="confirm-password" id="confirm-password">
+            </div>
+          </div>
+  
+          <div class="mt-6">
+            <label class="block text-sm font-medium text-gray-700" for="dob">
+              Date of Birth
+            </label>
+            <div class="mt-1">
+              <input class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" required="" type="date" name="dob" id="dob">
+            </div>
+          </div>
+          
+          <div class="flex items-center justify-center mt-6">
+    <span class="mr-3 text-gray-700 font-medium">Gender:</span>
+    <label class="inline-flex items-center">
+      <input type="radio" class="form-radio h-5 w-5 text-pink-600" name="gender" value="Male">
+      <span class="ml-2 text-gray-700">Male</span>
+    </label>
+    <label class="inline-flex items-center ml-6">
+      <input type="radio" class="form-radio h-5 w-5 text-purple-600" name="gender" value="Female">
+      <span class="ml-2 text-gray-700">Female</span>
+    </label>
+  </div>
+  
+  
+  
+          <div class="mt-6 flex items-center justify-between">
+            <div class="flex items-center">
+              <input class="h-4 w-4 text-indigo-600 focus:ring-indigo-500 border-gray-300 rounded" type="checkbox" name="terms-and-condition" id="terms-and-condition">
+              <label class="ml-2 block text-sm text-gray-900" for="terms-and-condition">
+                I agree to the terms and conditions
+              </label>
+            </div>
+          </div>
+  
+          <div class="mt-6">
+          
+            <button type="button" onclick="carregarDados()">Carregar</button>
+          </div>
+            --------------------------botao
+
+        
+            
+     
+
+    <div id="dadosCarregados">
+        <!-- Os dados carregados serão exibidos aqui -->
+    </div>
+
+    <script>
+        function carregarDados() {
+            // Obter os valores do formulário
+            var nome = document.getElementById('nome').value;
+            var sobreNome = document.getElementById('sobreNome').value;
+            var dataNasc = document.getElementById('dataNasc').value;
+            var genero = document.getElementById('genero').value;
+            var telefone = document.getElementById('telefone').value;
+            var email = document.getElementById('email').value;
+            var senha = document.getElementById('senha').value;
+            var confSenha = document.getElementById('confSenha').value;
+            var cep = document.getElementById('cep').value;
+            var rua = document.getElementById('rua').value;
+            var numero = document.getElementById('numero').value;
+            var complemento = document.getElementById('complemento').value;
+            var bairro = document.getElementById('bairro').value;
+            var cidade = document.getElementById('cidade').value;
+            var estado = document.getElementById('estado').value;
+            
+
+            // Exibir os dados carregados
+            var dadosCarregados = document.getElementById('dadosCarregados');
+            dadosCarregados.innerHTML = "<h2>Dados Carregados:</h2>" +
+                                        "<p><strong>Nome:</strong> " + nome + "</p>" +
+                                        "<p><strong>E-mail:</strong> " + email + "</p>" +
+                                        "<p><strong>Idade:</strong> " + idade + "</p>";
+        }
+    </script>
+
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div> 
+
+RODAPÉ-----------------------
+<footer class="footer-dark">
+  <div class="container">
+    <div class="row footer-item-cover">
+      <div class="footer-subscribe col-md-7 col-lg-8">
+        <h6>subscribe</h6>
+        <p>Subscribe us and you won't miss the new arrivals, as well as discounts and sales.</p>
+        <form class="subscribe-form">
+          <i class="fa fa-at" aria-hidden="true"></i>
+          <input class="inp-form" type="email" name="subscribe" placeholder="E-mail">
+          <button type="submit" class="btn btn-form btn-green"><span>send</span></button>
+        </form>
+      </div>
+      <div class="footer-item col-md-5 col-lg-4">
+        <h6>info</h6>
+        <ul class="footer-list">
+          <li><a href="shop.html">FAQ</a></li>
+          <li><a href="shop.html">Contacts</a></li>
+          <li><a href="shop.html">Shipping + Heading</a></li>
+          <li><a href="shop.html">Exchanges</a></li>
+          <li><a href="shop.html">2019 Catalog</a></li>
+          <li><a href="shop.html">Returns</a></li>
+          <li><a href="shop.html">Search</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="row footer-item-cover">
+      <div class="footer-touch col-md-7 col-lg-8">
+        <h6>stay in touch</h6>
+        <ul class="footer-soc social-list">
+          <li><a target="_blank" href="https://www.facebook.com/rovadex"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+          <li><a target="_blank" href="https://twitter.com/RovadexStudio"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+          <li><a target="_blank" href="https://www.instagram.com/rovadex"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+          <li><a target="_blank" href="https://www.youtube.com"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+        </ul>
+        <div class="footer-autor">Questions? Please write us at: <a href="mailto: sk8toony@gmail.com"> sk8toony@gmail.com</a></div>
+      </div>
+      <div class="footer-item col-md-5 col-lg-4">
+        <h6>shop</h6>
+        <ul class="footer-list">
+          <li><a href="shop.html">Road Bike</a></li>
+          <li><a href="shop.html">City Bike</a></li>
+          <li><a href="shop.html">Mountain Bike</a></li>
+          <li><a href="shop.html">Kids Bike</a></li>
+          <li><a href="shop.html">BMX Bike</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="footer-copyright"><a target="_blank" href="https://sk8toony.com"> sk8toony</a> © 2024. All Rights Reserved.</div>
+      <ul class="footer-pay">
+        <li><a href="#"><img src="assets/img/footer-pay-1.png" alt="img"></a></li>
+        <li><a href="#"><img src="assets/img/footer-pay-2.png" alt="img"></a></li>
+        <li><a href="#"><img src="assets/img/footer-pay-3.png" alt="img"></a></li>
+        <li><a href="#"><img src="assets/img/footer-pay-4.png" alt="img"></a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+<!--================== FOOTER END ==================-->
+
+
+</body>
+</html>

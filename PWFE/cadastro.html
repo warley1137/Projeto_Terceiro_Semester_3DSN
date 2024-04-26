@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Cadastro</title>
+    <meta name="keywords" content="">
+	<meta name="description" content="">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="shortcut icon" href="assets/img/skate1.png">
+	<!-- =================== STYLE =================== -->
+	<link rel="stylesheet" href="assets/css/slick.min.css">
+	<link rel="stylesheet" href="assets/css/bootstrap-grid.css">
+	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+	<link rel="stylesheet" href="assets/css/nice-select.css">
+	<link rel="stylesheet" href="assets/css/animate.css">
+	<link rel="stylesheet" href="assets/css/style.css">
+    <!-- <link rel="stylesheet" href="assets/css/cadastro.css"> -->
+    <style>
+        body{
+            overflow: auto; /* Adiciona barras de rolagem quando necessário */
+        }
+        .formulario {
+           
+            max-width: 600px;
+            margin: 20px auto;
+            background-color: #f5e9e9;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+           
+        }
+
+        .formulario label {
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        .formulario input {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 16px;
+            box-sizing: border-box;
+            border: 1px solid #f3a7a7;
+            border-radius: 4px;
+            width: calc(100% - 16px); /* Subtrai o espaçamento das bordas para evitar a quebra da linha */
+        }
+
+        .formulario button {
+            background-color: #f0f4f0;
+            color: #f89d9d;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        #dadosCarregados {
+            margin-top: 20px;
+        }
+
+        .formulario p {
+            margin-bottom: 8px;
+        }
+    </style>
+    
+</head>
+<body>
+  
+    <header class="header">
+		<a href="#" class="nav-btn">
+			<span></span>
+			<span></span>
+			<span></span>
+		</a>
+		<div class="top-panel">
+			<div class="container">
+				<div class="top-panel-cover">
+					<ul class="header-cont">
+						<!-- <li><a href="tel:+912345687"><i class="fa fa-phone"></i>+9123 456 87</a></li>
+						<li><a href="mailto:creto@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i>creto@gmail.com</a></li> -->
+					</ul>
+					<ul class="icon-right-list">
+						<li><a class="header-like" href="#"><i class="fa fa-heart" aria-hidden="true"></i><span>6</span></a></li>
+						<li><a class="header-user" href="#"><i class="fa fa-user" aria-hidden="true"></i></a></li>
+						<li><a class="header-cart" href="#"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="header-menu">
+			<div class="container">
+				<a href="index.html" class="logo"><img src="assets/img/logo.svg" alt="logo"></a>
+				<nav class="nav-menu">
+					<ul class="nav-list">
+						<li class="dropdown">
+							<a href="#">Home <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+							<ul>
+								<li class="active"><a href="index.html">Home Claro</a></li>
+								<li><a href="home-two.html">Home Escuro</a></li>
+							</ul>
+						</li>
+						<li><a href="services.html">Serviços</a></li>
+						<li><a href="shop.html">Loja</a></li>
+						<li><a href="gallery.html">Galeria</a></li>
+						<li class="dropdown">
+							<a href="#">Outros <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+							<ul>
+								<li><a href="about.html">Sobre Nós</a></li>
+								<li><a href="news.html">Notícias</a></li>
+								<li><a href="404.html">Page error 404</a></li>
+							</ul>
+						</li>
+						<li><a href="contacts.html">Contatos</a></li>
+						<li><a href="cadastro.html">Cadrastro</a></li>
+							</ul>
+				</nav>
+			</div>
+		</div>
+	</header>
+
+    <div class="formulario">
+        <form>
+            <form id="cadastroForm">
+                <h1>Cadastro</h1>
+                <!-- Nome -->
+                <label for="nome" style="color: blue;">Nome:</label>
+                <input type="text" id="nome" name="nome" required>
+        
+                <!--Sobre nome-->
+                <label for="sobreNome">SobreNome:</label>
+                <input type="text" id="sobreNome" name="sobreNome" required>
+        
+                <!-- Data de Nascimento -->
+                <label for="dataNasc">Idade:</label>
+                <input type="text" id="dataNasc" name="dataNasc" required>
+        
+                <!-- Genero -->
+                <label for="genero">Gênero:</label>
+                <input type="text" id="genero" name="genero" required>
+        
+                <!-- Telefone -->
+                <label for="telefone">Telefone:</label>
+                <input type="text" id="telefone" name="telefone" required>
+        
+                <!-- E-mail -->
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" required>
+        
+                <!-- Senha -->
+                <label for="senha">Senha:</label>
+                <input type="text" id="senha" name="senha" required>
+        
+                <!-- Confirmar Senha -->
+                <label for="confSenha ">confirmar Senha:</label>
+                <input type="text" id="confSenha" name="confSenha" required>
+        
+                <!-- CEP -->
+                <label for="cep ">Cep:</label>
+                <input type="text" id="cep" name="cep" required>
+        
+                <!-- Rua -->
+                <label for="rua">Rua:</label>
+                <input type="text" id="rua" name="rua" required>
+        
+                <!-- Numero -->
+                <label for="numero ">Numero:</label>
+                <input type="text" id="numero" name="numero" required>
+        
+                <!-- Complemento -->
+                <label for="complemento ">Complemento:</label>
+                <input type="text" id="complemento" name="complemento" required>
+        
+                <!-- Bairro-->
+                <label for="bairro ">Bairro:</label>
+                <input type="text" id="bairro" name="bairro" required>
+        
+                <!-- Cidade -->
+                <label for="cidade ">Cidade:</label>
+                <input type="text" id="cidade" name="cidade" required>
+        
+                <!-- Cidade -->
+                <label for="estado">UF:</label>
+                <input type="text" id="estado" name="estado" required>
+        
+        
+               
+        
+                <!-- Botão de Carregar -->
+                <button type="button" onclick="carregarDados()">Carregar</button>
+            
+        </form>
+        </form>
+    </div>
+    <div id="dadosCarregados">
+        <!-- Os dados carregados serão exibidos aqui -->
+    </div>
+    <footer class="footer-dark">
+        <div class="container">
+          <div class="row footer-item-cover">
+            <div class="footer-subscribe col-md-7 col-lg-8">
+              <h6>subscribe</h6>
+              <p>Subscribe us and you won't miss the new arrivals, as well as discounts and sales.</p>
+              <form class="subscribe-form">
+                <i class="fa fa-at" aria-hidden="true"></i>
+                <input class="inp-form" type="email" name="subscribe" placeholder="E-mail">
+                <button type="submit" class="btn btn-form btn-green"><span>send</span></button>
+              </form>
+            </div>
+            <div class="footer-item col-md-5 col-lg-4">
+              <h6>info</h6>
+              <ul class="footer-list">
+                <li><a href="shop.html">FAQ</a></li>
+                <li><a href="shop.html">Contacts</a></li>
+                <li><a href="shop.html">Shipping + Heading</a></li>
+                <li><a href="shop.html">Exchanges</a></li>
+                <li><a href="shop.html">2019 Catalog</a></li>
+                <li><a href="shop.html">Returns</a></li>
+                <li><a href="shop.html">Search</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="row footer-item-cover">
+            <div class="footer-touch col-md-7 col-lg-8">
+              <h6>stay in touch</h6>
+              <ul class="footer-soc social-list">
+                <li><a target="_blank" href="https://www.facebook.com/rovadex"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                <li><a target="_blank" href="https://twitter.com/RovadexStudio"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                <li><a target="_blank" href="https://www.instagram.com/rovadex"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                <li><a target="_blank" href="https://www.youtube.com"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+              </ul>
+              <div class="footer-autor">Questions? Please write us at: <a href="mailto: sk8toony@gmail.com"> sk8toony@gmail.com</a></div>
+            </div>
+            <div class="footer-item col-md-5 col-lg-4">
+              <h6>shop</h6>
+              <ul class="footer-list">
+                <li><a href="shop.html">Road Bike</a></li>
+                <li><a href="shop.html">City Bike</a></li>
+                <li><a href="shop.html">Mountain Bike</a></li>
+                <li><a href="shop.html">Kids Bike</a></li>
+                <li><a href="shop.html">BMX Bike</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="footer-bottom">
+            <div class="footer-copyright"><a target="_blank" href="https://sk8toony.com"> sk8toony</a> © 2024. All Rights Reserved.</div>
+            <ul class="footer-pay">
+              <li><a href="#"><img src="assets/img/footer-pay-1.png" alt="img"></a></li>
+              <li><a href="#"><img src="assets/img/footer-pay-2.png" alt="img"></a></li>
+              <li><a href="#"><img src="assets/img/footer-pay-3.png" alt="img"></a></li>
+              <li><a href="#"><img src="assets/img/footer-pay-4.png" alt="img"></a></li>
+            </ul>
+          </div>
+        </div>
+      </footer>
+      <!--================== FOOTER END ==================-->
+    
+
+    <script>
+        function carregarDados() {
+            // Obter os valores do formulário
+            var nome = document.getElementById('nome').value;
+            var sobreNome = document.getElementById('sobreNome').value;
+            var dataNasc = document.getElementById('dataNasc').value;
+            var genero = document.getElementById('genero').value;
+            var telefone = document.getElementById('telefone').value;
+            var email = document.getElementById('email').value;
+            var senha = document.getElementById('senha').value;
+            var confSenha = document.getElementById('confSenha').value;
+            var cep = document.getElementById('cep').value;
+            var rua = document.getElementById('rua').value;
+            var numero = document.getElementById('numero').value;
+            var complemento = document.getElementById('complemento').value;
+            var bairro = document.getElementById('bairro').value;
+            var cidade = document.getElementById('cidade').value;
+            var estado = document.getElementById('estado').value;
+            
+
+            // Exibir os dados carregados
+            var dadosCarregados = document.getElementById('dadosCarregados');
+            dadosCarregados.innerHTML = "<h2>Dados Carregados:</h2>" +
+                                        "<p><strong>Nome:</strong> " + nome + "</p>" +
+                                        "<p><strong>E-mail:</strong> " + email + "</p>" +
+                                        "<p><strong>Idade:</strong> " + idade + "</p>";
+        }
+    </script>
+    
+</body>
+
+</html>
+
