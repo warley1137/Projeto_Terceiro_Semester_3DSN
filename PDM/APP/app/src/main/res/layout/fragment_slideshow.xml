@@ -26,7 +26,6 @@
         android:layout_marginTop="156dp"
         android:backgroundTint="#604646"
         android:foreground="@android:color/transparent"
-        android:src="@drawable/ic_menu_camera"
         app:layout_constraintBottom_toTopOf="@+id/bt_foto"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"

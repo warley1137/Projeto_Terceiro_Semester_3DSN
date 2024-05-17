@@ -13,4 +13,13 @@
     <color name="marron">#754b31</color>
     <color name="begeEscuro">#e08435</color>
     <color name="verde">#83ac65</color>
+    <color name="colorMediumYellow">#FFFFD840</color>
+    <color name="colorMediumRed">#FF0000</color>
+    <color name="colorLightBlue">#FF4FC3F7</color>
+    <color name="colorNavItemSelected">#F1F1F1</color>
+    <color name="iron">#E1E1E3</color>
+    <color name="colorPrimary">#F9F9F9</color>
+    <color name="colorPrimaryDark">#C6C6C6</color>
+    <color name="colorAccent">#F5F5F5</color>
+
 </resources>

@@ -6,15 +6,47 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_home"
-            android:icon="@drawable/baseline_person_outline_24"
-            android:title="Inicio" />
+            android:title="Inicio"/>
         <item
             android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
             android:title="Galeria" />
         <item
             android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_camera"
             android:title="Foto" />
+        <item
+            android:id="@+id/nav_destaque"
+            android:title="Destaques" />
+        <item
+            android:id="@+id/nav_truck"
+            android:title="Truck" />
+        <item
+            android:id="@+id/nav_roda"
+            android:title="Roda" />
+        <item
+            android:id="@+id/nav_rolamento"
+            android:title="Rolamento" />
+        <item
+            android:id="@+id/nav_shape"
+            android:title="Shape" />
+        <item
+            android:id="@+id/nav_lixa"
+            android:title="Lixa" />
     </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_contato"
+                android:icon="@drawable/ic_contato"
+                android:title="Contato" />
+            <item
+                android:id="@+id/nav_sobre"
+                android:icon="@drawable/ic_sobre"
+                android:title="Sobre" />
+            <item
+                android:id="@+id/nav_privacidade"
+                android:icon="@drawable/ic_privacidade"
+                android:title="Políticas de Privacidade" />
+        </menu>
+    </item>
 </menu>

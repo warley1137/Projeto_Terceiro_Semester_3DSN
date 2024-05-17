@@ -1,30 +1,28 @@
-<!-- fragment_home.xml -->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".ui.home.HomeFragment">
+    tools:context=".ui.home.HomeFragment"
+    android:background="@color/iron">
 
-    <ImageView
-        android:id="@+id/imageView4"
+    <!-- Adicionando espaço acima do ListView -->
+    <Space
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_marginTop="-85dp"
-        android:layout_weight="1"
-        android:src="@drawable/baner" />
+        android:layout_height="16dp" />
 
     <ListView
         android:id="@+id/listProdutos"
         android:layout_width="match_parent"
-        android:layout_height="144dp"
+        android:layout_height="0dp"
+        android:layout_weight="1"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="-70dp"
-        android:layout_marginEnd="16dp"
-        android:layout_marginBottom="-10000dp"
-        android:layout_weight="1" />
+        android:layout_marginEnd="16dp" />
 
-
+    <!-- Adicionando espaço abaixo do ListView -->
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="16dp" />
 
 </LinearLayout>

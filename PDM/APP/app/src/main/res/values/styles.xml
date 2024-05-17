@@ -6,6 +6,7 @@
             <item name="android:layout_height">250dp</item>
             <item name="android:background">@drawable/containers_components</item>
             <item name="android:layout_margin">20dp</item>
+            <item name="android:windowBackground">@drawable/drawable</item>
         </style>
         <!-- os imputs de entrada-->
         <style name="Edit_Text">
@@ -30,7 +31,61 @@
             <item name="android:layout_marginRight">40dp</item>
             <item name="android:layout_marginTop">15dp</item>
             <item name="android:padding">20dp</item>
-            <item name="android:background">@drawable/button</item>
         </style>
+    <style name="ImageViewRateStarItemList">
+        <item name="android:layout_width">10dp</item>
+        <item name="android:layout_height">10dp</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:tint">@color/colorMediumYellow</item>
+    </style>
+
+    <style name="SmallButton" parent="Widget.AppCompat.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginEnd">16dp</item>
+    </style>
+
+
+    <!--
+      Estilo padrão, aplicado em todo o projeto.
+  -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--
+        Para que a barra de topo padrão não seja utilizada e
+        assim somente o AppBarLayout junto ao Toolbar possam ser
+        usados.
+    -->
+    <style name="AppTheme.NoActionBar">
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!--
+        Para o correto enquadramento do AppBarLayout.
+    -->
+    <style
+        name="AppTheme.AppBarOverlay"
+        parent="ThemeOverlay.AppCompat.ActionBar"/>
+
+    <!--
+        Utilizado para a correta apresentação de menus de pop-up
+        em barra de topo.
+    -->
+    <style
+        name="AppTheme.PopupOverlay"
+        parent="ThemeOverlay.AppCompat.Light"/>
+
 
 </resources>

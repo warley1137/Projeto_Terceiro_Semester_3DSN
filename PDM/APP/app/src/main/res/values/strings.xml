@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Sk8</string>
     <string name="entrar">Entrar</string>
     <string name="text_cadastro">Crie uma conta aqui.</string>
     <string name="title_cadastro">Cadastre-se</string>
@@ -13,7 +13,42 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
+    <string name="menu_home">Destaques</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+
+    <string name="menu_destaques">Todos os calçados</string>
+    <string name="item_truck">Chinelos</string>
+    <string name="item_roda">Chuteiras</string>
+    <string name="item_rolamento">Sandálias</string>
+    <string name="item_shape">Sapatilhas</string>
+    <string name="item_lixa">Sapatênis</string>
+    <string name="item_contact">Contato </string>
+    <string name="item_about">Sobre</string>
+    <string name="item_privacy_policy">Políticas de privacidade</string>
+    <string name="item_my_orders">Meus pedidos</string>
+    <string name="item_settings">Minhas configurações</string>
+    <string name="item_sign_out">Sair</string>
+
+
+    <string name="offer">Oferta</string>
+    <string name="money_sign">R$</string>
+    <string name="in_until">em até</string>
+    <string name="of">de</string>
+
+    <string name="content_desc_rate_star_1">
+        Primeira estrela da medição de avaliação dos compradores do tênis.
+    </string>
+    <string name="content_desc_rate_star_2">
+        Segunda estrela da medição de avaliação dos compradores do tênis.
+    </string>
+    <string name="content_desc_rate_star_3">
+        Terceira estrela da medição de avaliação dos compradores do tênis.
+    </string>
+    <string name="content_desc_rate_star_4">
+        Quarta estrela da medição de avaliação dos compradores do tênis.
+    </string>
+    <string name="content_desc_rate_star_5">
+        Quinta estrela da medição de avaliação dos compradores do tênis.
+    </string>
 </resources>
