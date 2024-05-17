@@ -1,0 +1,1141 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\APP.bundle.scp.css",
+      "PackagePath": "staticwebassets\\APP.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\css\\cadastro.css",
+      "PackagePath": "staticwebassets\\css\\cadastro.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\css\\slick.min.css",
+      "PackagePath": "staticwebassets\\css\\slick.min.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\.jpg",
+      "PackagePath": "staticwebassets\\img\\.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about-1.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\about-team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about-team-1.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\about-team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about-team-2.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\about-team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\about-team-3.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\about-team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\about-team-4.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\advantages-1.svg",
+      "PackagePath": "staticwebassets\\img\\advantages-1.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\advantages-2.svg",
+      "PackagePath": "staticwebassets\\img\\advantages-2.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\advantages-3.svg",
+      "PackagePath": "staticwebassets\\img\\advantages-3.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\advantages-4.svg",
+      "PackagePath": "staticwebassets\\img\\advantages-4.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\advantages-about-1.svg",
+      "PackagePath": "staticwebassets\\img\\advantages-about-1.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\advantages-about-2.svg",
+      "PackagePath": "staticwebassets\\img\\advantages-about-2.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\advantages-about-3.svg",
+      "PackagePath": "staticwebassets\\img\\advantages-about-3.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\advantages-about-4.svg",
+      "PackagePath": "staticwebassets\\img\\advantages-about-4.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\advantages-dark-1.svg",
+      "PackagePath": "staticwebassets\\img\\advantages-dark-1.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\advantages-dark-2.svg",
+      "PackagePath": "staticwebassets\\img\\advantages-dark-2.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\advantages-dark-3.svg",
+      "PackagePath": "staticwebassets\\img\\advantages-dark-3.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\autor-img.png",
+      "PackagePath": "staticwebassets\\img\\autor-img.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\banner-shop.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-shop.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg-about-count.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-about-count.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg-advantages.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-advantages.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg-dark-feedback.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-dark-feedback.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg-dark-news.png",
+      "PackagePath": "staticwebassets\\img\\bg-dark-news.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg-dark-subscribe.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-dark-subscribe.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg-effect-header.svg",
+      "PackagePath": "staticwebassets\\img\\bg-effect-header.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg-error.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-error.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg-feedback.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-feedback.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg-header.svg",
+      "PackagePath": "staticwebassets\\img\\bg-header.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg-section-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-section-banner.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg-slider-2.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-slider-2.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg-slider-2.svg",
+      "PackagePath": "staticwebassets\\img\\bg-slider-2.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg-slider-3.svg",
+      "PackagePath": "staticwebassets\\img\\bg-slider-3.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg-slider.svg",
+      "PackagePath": "staticwebassets\\img\\bg-slider.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg-subscribe.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-subscribe.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bike-banner.png",
+      "PackagePath": "staticwebassets\\img\\bike-banner.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bike-info-slide.jpg",
+      "PackagePath": "staticwebassets\\img\\bike-info-slide.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\categ-1.png",
+      "PackagePath": "staticwebassets\\img\\categ-1.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\categ-2.png",
+      "PackagePath": "staticwebassets\\img\\categ-2.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\categ-3.png",
+      "PackagePath": "staticwebassets\\img\\categ-3.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\client-1.svg",
+      "PackagePath": "staticwebassets\\img\\client-1.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\client-2.svg",
+      "PackagePath": "staticwebassets\\img\\client-2.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\client-3.svg",
+      "PackagePath": "staticwebassets\\img\\client-3.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\client-4.svg",
+      "PackagePath": "staticwebassets\\img\\client-4.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\client-5.svg",
+      "PackagePath": "staticwebassets\\img\\client-5.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\client-6.svg",
+      "PackagePath": "staticwebassets\\img\\client-6.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\cont-icon-1.svg",
+      "PackagePath": "staticwebassets\\img\\cont-icon-1.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\cont-icon-2.svg",
+      "PackagePath": "staticwebassets\\img\\cont-icon-2.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\cont-icon-3.svg",
+      "PackagePath": "staticwebassets\\img\\cont-icon-3.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\cont-img-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cont-img-1.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-adv-bg.png",
+      "PackagePath": "staticwebassets\\img\\dark-adv-bg.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-adv-effect.svg",
+      "PackagePath": "staticwebassets\\img\\dark-adv-effect.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-bg-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\dark-bg-banner.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-bike-banner.png",
+      "PackagePath": "staticwebassets\\img\\dark-bike-banner.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-categ-1.png",
+      "PackagePath": "staticwebassets\\img\\dark-categ-1.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-categ-2.png",
+      "PackagePath": "staticwebassets\\img\\dark-categ-2.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-categ-3.png",
+      "PackagePath": "staticwebassets\\img\\dark-categ-3.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-categ-effect.svg",
+      "PackagePath": "staticwebassets\\img\\dark-categ-effect.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-categ-img-1.png",
+      "PackagePath": "staticwebassets\\img\\dark-categ-img-1.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-categ-img-2.png",
+      "PackagePath": "staticwebassets\\img\\dark-categ-img-2.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-categ-img-3.png",
+      "PackagePath": "staticwebassets\\img\\dark-categ-img-3.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-categ-img-4.png",
+      "PackagePath": "staticwebassets\\img\\dark-categ-img-4.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-client-1.svg",
+      "PackagePath": "staticwebassets\\img\\dark-client-1.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-client-2.svg",
+      "PackagePath": "staticwebassets\\img\\dark-client-2.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-client-3.svg",
+      "PackagePath": "staticwebassets\\img\\dark-client-3.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-client-4.svg",
+      "PackagePath": "staticwebassets\\img\\dark-client-4.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-client-5.svg",
+      "PackagePath": "staticwebassets\\img\\dark-client-5.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-client-6.svg",
+      "PackagePath": "staticwebassets\\img\\dark-client-6.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-effect-banner.svg",
+      "PackagePath": "staticwebassets\\img\\dark-effect-banner.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-effect-bg.png",
+      "PackagePath": "staticwebassets\\img\\dark-effect-bg.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-effect-img.svg",
+      "PackagePath": "staticwebassets\\img\\dark-effect-img.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-effect-subscribe.png",
+      "PackagePath": "staticwebassets\\img\\dark-effect-subscribe.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-instagram-1.jpg",
+      "PackagePath": "staticwebassets\\img\\dark-instagram-1.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-instagram-2.jpg",
+      "PackagePath": "staticwebassets\\img\\dark-instagram-2.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-instagram-3.jpg",
+      "PackagePath": "staticwebassets\\img\\dark-instagram-3.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-instagram-4.jpg",
+      "PackagePath": "staticwebassets\\img\\dark-instagram-4.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-instagram-5.jpg",
+      "PackagePath": "staticwebassets\\img\\dark-instagram-5.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-item-feedback.png",
+      "PackagePath": "staticwebassets\\img\\dark-item-feedback.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-prod-1.jpg",
+      "PackagePath": "staticwebassets\\img\\dark-prod-1.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-prod-2.jpg",
+      "PackagePath": "staticwebassets\\img\\dark-prod-2.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-prod-3.jpg",
+      "PackagePath": "staticwebassets\\img\\dark-prod-3.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-prod-4.jpg",
+      "PackagePath": "staticwebassets\\img\\dark-prod-4.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-prod-5.jpg",
+      "PackagePath": "staticwebassets\\img\\dark-prod-5.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-prod-6.jpg",
+      "PackagePath": "staticwebassets\\img\\dark-prod-6.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-prod-7.jpg",
+      "PackagePath": "staticwebassets\\img\\dark-prod-7.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-prod-8.jpg",
+      "PackagePath": "staticwebassets\\img\\dark-prod-8.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-prod-bg-1.png",
+      "PackagePath": "staticwebassets\\img\\dark-prod-bg-1.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-prod-bg-2.png",
+      "PackagePath": "staticwebassets\\img\\dark-prod-bg-2.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-prod-bg.png",
+      "PackagePath": "staticwebassets\\img\\dark-prod-bg.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-slide-1.png",
+      "PackagePath": "staticwebassets\\img\\dark-slide-1.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-slide-2.png",
+      "PackagePath": "staticwebassets\\img\\dark-slide-2.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-slide-3.png",
+      "PackagePath": "staticwebassets\\img\\dark-slide-3.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-slide-31.png",
+      "PackagePath": "staticwebassets\\img\\dark-slide-31.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-top-sale-1.jpg",
+      "PackagePath": "staticwebassets\\img\\dark-top-sale-1.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-top-sale-2.jpg",
+      "PackagePath": "staticwebassets\\img\\dark-top-sale-2.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-top-sale-3.jpg",
+      "PackagePath": "staticwebassets\\img\\dark-top-sale-3.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\dark-top-sale-4.jpg",
+      "PackagePath": "staticwebassets\\img\\dark-top-sale-4.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\effect-bg-about.svg",
+      "PackagePath": "staticwebassets\\img\\effect-bg-about.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\effect-bg-banner.png",
+      "PackagePath": "staticwebassets\\img\\effect-bg-banner.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\effect-bg-feedback.svg",
+      "PackagePath": "staticwebassets\\img\\effect-bg-feedback.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\effect-dark-slider.svg",
+      "PackagePath": "staticwebassets\\img\\effect-dark-slider.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\effect-section-banner.svg",
+      "PackagePath": "staticwebassets\\img\\effect-section-banner.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\effect-subscribe-img.svg",
+      "PackagePath": "staticwebassets\\img\\effect-subscribe-img.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\estampa.png",
+      "PackagePath": "staticwebassets\\img\\estampa.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\favicon.svg",
+      "PackagePath": "staticwebassets\\img\\favicon.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\feedback-photo-1.png",
+      "PackagePath": "staticwebassets\\img\\feedback-photo-1.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\feedback-photo-2.png",
+      "PackagePath": "staticwebassets\\img\\feedback-photo-2.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\feedback-photo-3.png",
+      "PackagePath": "staticwebassets\\img\\feedback-photo-3.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\footer-pay-1.png",
+      "PackagePath": "staticwebassets\\img\\footer-pay-1.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\footer-pay-2.png",
+      "PackagePath": "staticwebassets\\img\\footer-pay-2.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\footer-pay-3.png",
+      "PackagePath": "staticwebassets\\img\\footer-pay-3.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\footer-pay-4.png",
+      "PackagePath": "staticwebassets\\img\\footer-pay-4.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\gal-1.jpg",
+      "PackagePath": "staticwebassets\\img\\gal-1.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\gal-2.jpg",
+      "PackagePath": "staticwebassets\\img\\gal-2.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\gal-3.jpg",
+      "PackagePath": "staticwebassets\\img\\gal-3.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\gal-4.jpg",
+      "PackagePath": "staticwebassets\\img\\gal-4.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\gal-41.jpg",
+      "PackagePath": "staticwebassets\\img\\gal-41.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\gal-5.jpg",
+      "PackagePath": "staticwebassets\\img\\gal-5.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\gal-52.jpg",
+      "PackagePath": "staticwebassets\\img\\gal-52.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\gal-6.jpg",
+      "PackagePath": "staticwebassets\\img\\gal-6.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\gal-61.jpg",
+      "PackagePath": "staticwebassets\\img\\gal-61.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\gal-7.jpg",
+      "PackagePath": "staticwebassets\\img\\gal-7.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\gal-71.jpg",
+      "PackagePath": "staticwebassets\\img\\gal-71.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\gal-8.jpg",
+      "PackagePath": "staticwebassets\\img\\gal-8.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\gal-81.jpg",
+      "PackagePath": "staticwebassets\\img\\gal-81.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\gal-9.jpg",
+      "PackagePath": "staticwebassets\\img\\gal-9.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\gal-91.jpg",
+      "PackagePath": "staticwebassets\\img\\gal-91.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\hover.png",
+      "PackagePath": "staticwebassets\\img\\hover.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\hover1.png",
+      "PackagePath": "staticwebassets\\img\\hover1.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\icon-map.png",
+      "PackagePath": "staticwebassets\\img\\icon-map.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\img-slider-2.png",
+      "PackagePath": "staticwebassets\\img\\img-slider-2.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\img-slider-3.png",
+      "PackagePath": "staticwebassets\\img\\img-slider-3.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\img-slider.png",
+      "PackagePath": "staticwebassets\\img\\img-slider.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\insta-hover-bg.png",
+      "PackagePath": "staticwebassets\\img\\insta-hover-bg.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\insta-widget-1.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-widget-1.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\insta-widget-2.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-widget-2.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\insta-widget-3.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-widget-3.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\insta-widget-4.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-widget-4.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\insta-widget-5.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-widget-5.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\insta-widget-6.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-widget-6.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\instagram-1.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram-1.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\instagram-2.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram-2.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\instagram-3.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram-3.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\instagram-4.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram-4.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\instagram-5.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram-5.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\jpg",
+      "PackagePath": "staticwebassets\\img"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\logo-white.svg",
+      "PackagePath": "staticwebassets\\img\\logo-white.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\img\\logo.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\logo1.png",
+      "PackagePath": "staticwebassets\\img\\logo1.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\logo_menor.svg",
+      "PackagePath": "staticwebassets\\img\\logo_menor.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\logo_menor1.svg",
+      "PackagePath": "staticwebassets\\img\\logo_menor1.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\loop-icon.svg",
+      "PackagePath": "staticwebassets\\img\\loop-icon.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\news-1.jpg",
+      "PackagePath": "staticwebassets\\img\\news-1.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\news-2.jpg",
+      "PackagePath": "staticwebassets\\img\\news-2.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\news-3.jpg",
+      "PackagePath": "staticwebassets\\img\\news-3.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\placeholder-all.png",
+      "PackagePath": "staticwebassets\\img\\placeholder-all.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\prod-1.png",
+      "PackagePath": "staticwebassets\\img\\prod-1.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\prod-10.png",
+      "PackagePath": "staticwebassets\\img\\prod-10.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\prod-11.png",
+      "PackagePath": "staticwebassets\\img\\prod-11.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\prod-12.png",
+      "PackagePath": "staticwebassets\\img\\prod-12.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\prod-2.png",
+      "PackagePath": "staticwebassets\\img\\prod-2.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\prod-3.png",
+      "PackagePath": "staticwebassets\\img\\prod-3.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\prod-4.png",
+      "PackagePath": "staticwebassets\\img\\prod-4.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\prod-5.png",
+      "PackagePath": "staticwebassets\\img\\prod-5.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\prod-6.png",
+      "PackagePath": "staticwebassets\\img\\prod-6.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\prod-7.png",
+      "PackagePath": "staticwebassets\\img\\prod-7.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\prod-8.png",
+      "PackagePath": "staticwebassets\\img\\prod-8.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\prod-9.png",
+      "PackagePath": "staticwebassets\\img\\prod-9.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\single-slider-1.jpg",
+      "PackagePath": "staticwebassets\\img\\single-slider-1.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\single-slider-2.jpg",
+      "PackagePath": "staticwebassets\\img\\single-slider-2.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\single-slider-3.jpg",
+      "PackagePath": "staticwebassets\\img\\single-slider-3.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\single-slider-4.jpg",
+      "PackagePath": "staticwebassets\\img\\single-slider-4.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\single-slider-5.jpg",
+      "PackagePath": "staticwebassets\\img\\single-slider-5.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\skate.png",
+      "PackagePath": "staticwebassets\\img\\skate.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\skate1.png",
+      "PackagePath": "staticwebassets\\img\\skate1.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\subscribe-effect.svg",
+      "PackagePath": "staticwebassets\\img\\subscribe-effect.svg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\subscribe-img.png",
+      "PackagePath": "staticwebassets\\img\\subscribe-img.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\testimonials-1.png",
+      "PackagePath": "staticwebassets\\img\\testimonials-1.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\testimonials-2.png",
+      "PackagePath": "staticwebassets\\img\\testimonials-2.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\img\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\video-bg.jpg"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\js\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\js\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\js\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fancybox.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\js\\jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\js\\lazyload.min.js",
+      "PackagePath": "staticwebassets\\js\\lazyload.min.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\js\\preenchimentoCEP.js",
+      "PackagePath": "staticwebassets\\js\\preenchimentoCEP.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\js\\scripts.min.js",
+      "PackagePath": "staticwebassets\\js\\scripts.min.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\js\\wow.js",
+      "PackagePath": "staticwebassets\\js\\wow.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\php\\contact.php",
+      "PackagePath": "staticwebassets\\php\\contact.php"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\_header.scss"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\scss\\_normalize.scss",
+      "PackagePath": "staticwebassets\\scss\\_normalize.scss"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\scss\\_site.scss",
+      "PackagePath": "staticwebassets\\scss\\_site.scss"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\scss\\_structure.scss",
+      "PackagePath": "staticwebassets\\scss\\_structure.scss"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.APP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.APP.props",
+      "PackagePath": "build\\APP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.APP.props",
+      "PackagePath": "buildMultiTargeting\\APP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.APP.props",
+      "PackagePath": "buildTransitive\\APP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
