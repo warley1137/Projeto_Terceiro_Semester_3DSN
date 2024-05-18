@@ -60,19 +60,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\marco\\.nuget\\packages\\": {}
+    "C:\\Users\\ana.silva\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\APP.csproj",
+      "projectUniqueName": "D:\\marcoscorreademelo\\Projects\\SK8TOONY\\MVC\\APP\\APP.csproj",
       "projectName": "APP",
-      "projectPath": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\APP.csproj",
-      "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\obj\\",
+      "projectPath": "D:\\marcoscorreademelo\\Projects\\SK8TOONY\\MVC\\APP\\APP.csproj",
+      "packagesPath": "C:\\Users\\ana.silva\\.nuget\\packages\\",
+      "outputPath": "D:\\marcoscorreademelo\\Projects\\SK8TOONY\\MVC\\APP\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ana.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -92,11 +97,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -127,7 +127,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
