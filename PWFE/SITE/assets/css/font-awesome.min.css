@@ -13,14 +13,14 @@
 .fa {
     display: inline-block;
     font: normal normal normal 14px/1 FontAwesome;
-    font-size: inherit;
+    font-size: 1.3rem;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
 }
 
 .fa-lg {
-    font-size: 1.33333333em;
+    font-size: 2em;
     line-height: .75em;
     vertical-align: -15%
 }
@@ -205,7 +205,7 @@
 }
 
 .fa-stack-2x {
-    font-size: 2em
+    font-size: 3em
 }
 
 .fa-inverse {

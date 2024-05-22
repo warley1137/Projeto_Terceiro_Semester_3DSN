@@ -548,9 +548,10 @@ body.page-loaded .preloader-cover {
 }
 
 header {
-    background: #fff;
-    min-height: 50px;
+    background: #000000;
+    min-height: 30px;
     position: relative;
+    color: white;
     width: 100%;
     z-index: 10
 }
@@ -561,8 +562,8 @@ header {
     left: -100%;
     top: 100%;
     z-index: 3;
-    background: #fff;
-    height: calc(100vh - 50px);
+    background: #000000;
+    height: calc(100vh - 40px);
     -webkit-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
     opacity: 0;
@@ -615,12 +616,42 @@ header {
     align-items: center;
     -webkit-transition: all 0.35s ease;
     transition: all 0.35s ease;
-    color: #65696C;
+    color: white;
     font-family: "Roboto Condensed", sans-serif
 }
 
 .nav-list>li>a:before {
     display: none
+}
+
+.nav-list>li>a .fa-heart {
+    font-size: 1.2rem;
+}
+
+.nav-list>li>a .fa-shopping-cart {
+    font-size: 1.2rem;
+}
+
+.btn-sign-in {
+    height: 2.5rem;
+    font-size: 1.1rem;
+    color: white;
+    background-color: #E0463D;
+    border-radius: .4rem;
+}
+
+.btn-sign-in:hover {
+    transform: scale(1.05);
+}
+
+.btn-sign-up {
+    height: 2.5rem;
+    font-size: 1.1rem;
+    border-radius: .4rem;
+}
+
+.btn-sign-up:hover {
+    transform: scale(1.05);
 }
 
 .nav-list>li>a i {
