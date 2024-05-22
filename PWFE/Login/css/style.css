@@ -7,7 +7,7 @@
 }
 
 * {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     font-family: "Poppins", sans-serif;
 }
@@ -34,7 +34,7 @@
 .right {
     background-image: url('../img/bg-login.png');
     background-size: cover;
-    width: 30%;
+    width: 40%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -59,13 +59,15 @@
 }
 
 form input {
+    width: 100%;
     padding: .5rem;
+    box-sizing: border-box;
 }
 
 .remember-forgotten {
     display: flex;
     flex-direction: row;
-    width: fit-content;
+    width: 100%;
 }
 
 .remember-forgotten label, a {
@@ -101,6 +103,7 @@ form input {
 }
 
 .register {
+    font-size: .9rem;
     width: 80%;
     position: relative;
     left: 0;
