@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dKgAlitMs5r5n+E+eUMXdkgYIE5fgHNLBUxwmMjQsxW4mRf1FtJGhhUYSlGfnM81hxUVYsl1jxQEs8nqZFyF8A==",
+  "dgSpecHash": "gbY3vAt5gGhefSVVFWctLSMMXAO+JQkQ6PdyeXts+3XzwkK+d9kNV4RSrFG0+b9C0LNcWhUiY60d4csv9+pAOg==",
   "success": true,
-  "projectFilePath": "D:\\Users\\marco\\OneDrive\\Documentos\\SENAI\\DSN\\Projetos\\SK8TOONY\\MVC\\APP\\APP.csproj",
+  "projectFilePath": "D:\\marcoscorreademelo\\Projects\\SK8TOONY\\MVC\\APP\\APP.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\marco\\.nuget\\packages\\sharpscss\\2.0.0\\sharpscss.2.0.0.nupkg.sha512"
+    "C:\\Users\\ana.silva\\.nuget\\packages\\sharpscss\\2.0.0\\sharpscss.2.0.0.nupkg.sha512"
   ],
   "logs": []
 }
