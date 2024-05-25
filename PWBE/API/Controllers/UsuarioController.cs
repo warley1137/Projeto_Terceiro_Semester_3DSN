@@ -12,16 +12,14 @@ namespace API_Web_SK8TOONY.Controllers
 		[HttpPost]
 		public IActionResult cadastrar([FromBody] Usuario usuario)
 		{
-			MySqlConnection connection = new MySqlConnection("server=ESN509VMYSQL;database=sk8toony;uid=aluno;pwd=Senai1234");
-			MySqlCommand sql = new MySqlCommand("INSERT INTO usuario VALUES(null, @nome, @sobrenome, @dataNasc, @genero, @documento, @telefone, @email, @senha, @imagem, null);", connection);
+			MySqlConnection connection = new MySqlConnection("server=localhost;database=sk8toony;uid=root;pwd=");
+			MySqlCommand sql = new MySqlCommand("INSERT INTO usuario (Nome, Sobrenome, Username, Genero, DataNasc, CPF, Imagem) VALUES(@nome, @sobrenome, @username, @genero, @dataNasc, @cpf, @imagem);", connection);
 			sql.Parameters.AddWithValue("@nome", usuario._nome);
 			sql.Parameters.AddWithValue("@sobrenome", usuario._sobrenome);
-			sql.Parameters.AddWithValue("@dataNasc", usuario._dataNasc);
-			sql.Parameters.AddWithValue("@genero", usuario._genero);
-			sql.Parameters.AddWithValue("@documento", usuario._documento);
-			sql.Parameters.AddWithValue("@telefone", usuario._telefone);
-			sql.Parameters.AddWithValue("@email", usuario._email);
-			sql.Parameters.AddWithValue("@senha", usuario._senha);
+			sql.Parameters.AddWithValue("@username", usuario._username);
+            sql.Parameters.AddWithValue("@genero", usuario._genero);
+            sql.Parameters.AddWithValue("@dataNasc", usuario._dataNasc);
+            sql.Parameters.AddWithValue("@cpf", usuario._cpf);
 			sql.Parameters.AddWithValue("@imagem", usuario._imagem);
 
 			connection.Open();//Abre a conexão
@@ -66,16 +64,13 @@ namespace API_Web_SK8TOONY.Controllers
 		[HttpPut]
 		public IActionResult atualizar([FromBody] Usuario usuario)
 		{
-			MySqlConnection connection = new MySqlConnection("server=ESN509VMYSQL;database=sk8toony;uid=aluno;pwd=Senai1234");
-			MySqlCommand sql = new MySqlCommand("UPDATE usuario SET nome = @nome, sobrenome = @sobrenome, dataNasc = @dataNasc, genero = @genero, documento = @documento, telefone = @telefone, email = @email, senha = @senha, imagem = @imagem WHERE id = @id;", connection);
+			MySqlConnection connection = new MySqlConnection("server=localhost;database=sk8toony;uid=root;pwd=");
+			MySqlCommand sql = new MySqlCommand("UPDATE usuario SET nome = @nome, sobrenome = @sobrenome, username = @username, genero = @genero, dataNasc = @dataNasc, cpf = @cpf, imagem = @imagem WHERE id = @id;", connection);
 			sql.Parameters.AddWithValue("@nome", usuario._nome);
 			sql.Parameters.AddWithValue("@sobrenome", usuario._sobrenome);
-			sql.Parameters.AddWithValue("@dataNasc", usuario._dataNasc);
-			sql.Parameters.AddWithValue("@genero", usuario._genero);
-			sql.Parameters.AddWithValue("@documento", usuario._documento);
-			sql.Parameters.AddWithValue("@telefone", usuario._telefone);
-			sql.Parameters.AddWithValue("@email", usuario._email);
-			sql.Parameters.AddWithValue("@senha", usuario._senha);
+			sql.Parameters.AddWithValue("@username", usuario._username);
+            sql.Parameters.AddWithValue("@genero", usuario._genero);
+            sql.Parameters.AddWithValue("@dataNasc", usuario._dataNasc);			
 			sql.Parameters.AddWithValue("@imagem", usuario._imagem);
 			sql.Parameters.AddWithValue("@id", usuario._id);
 
@@ -97,7 +92,7 @@ namespace API_Web_SK8TOONY.Controllers
 		[HttpGet]
 		public IActionResult buscarTodos()
 		{
-			MySqlConnection connection = new MySqlConnection("server=ESN509VMYSQL;database=sk8toony;uid=aluno;pwd=Senai1234");
+			MySqlConnection connection = new MySqlConnection("server=localhost;database=sk8toony;uid=root;pwd=");
 			MySqlCommand sql = new MySqlCommand("SELECT * FROM usuario;", connection);
 			List<Usuario> lista = new List<Usuario>(); //Criar uma lista para receber os usuários cadastrados no banco de dados
 
@@ -111,14 +106,11 @@ namespace API_Web_SK8TOONY.Controllers
 					reader.GetInt32("id"),
 					reader.GetString("nome"),
 					reader.GetString("sobrenome"),
-					reader.GetDateTime("dataNasc"),
-					reader.GetString("genero"),
-					reader.GetString("documento"),
-					reader.GetString("telefone"),
-					reader.GetString("email"),
-					reader.GetString("senha"),
-					reader.GetString("imagem"),
-					reader.GetInt16("isOnline"));
+					reader.GetString("username"),
+                    reader.GetString("genero"),
+                    reader.GetDateTime("dataNasc"),
+					reader.GetString("cpf"),
+					"reader.GetString('imagem')");
 
 				lista.Add(usuario); //Adicionar o usuario na lista
 			}
@@ -137,7 +129,7 @@ namespace API_Web_SK8TOONY.Controllers
 		[HttpGet]
 		public IActionResult buscarTodos(int id)
 		{
-			MySqlConnection connection = new MySqlConnection("server=ESN509VMYSQL;database=sk8toony;uid=aluno;pwd=Senai1234");
+			MySqlConnection connection = new MySqlConnection("server=localhost;database=sk8toony;uid=root;pwd=");
 			MySqlCommand sql = new MySqlCommand("SELECT * FROM usuario WHERE id = @id;", connection);
 			sql.Parameters.AddWithValue("@id", id);
 			
@@ -150,18 +142,15 @@ namespace API_Web_SK8TOONY.Controllers
 			while (reader.Read())
 			{
 				usuario = new Usuario(
-					reader.GetInt32("id"),
-					reader.GetString("nome"),
-					reader.GetString("sobrenome"),
-					reader.GetDateTime("dataNasc"),
-					reader.GetString("genero"),
-					reader.GetString("documento"),
-					reader.GetString("telefone"),
-					reader.GetString("email"),
-					reader.GetString("senha"),
-					reader.GetString("imagem"),
-					reader.GetInt16("isOnline"));
-			}
+                    reader.GetInt32("id"),
+                    reader.GetString("nome"),
+                    reader.GetString("sobrenome"),
+                    reader.GetString("username"),
+                    reader.GetString("genero"),
+                    reader.GetDateTime("dataNasc"),
+                    reader.GetString("cpf"),
+                    reader.GetString("imagem"));
+            }
 
 			connection.Close();
 

@@ -54,3 +54,59 @@ C:\Users\aluno\Documents\marcoscorreamelo\SK8TOONY\PWBE\API Web SK8TOONY\obj\Deb
 C:\Users\aluno\Documents\marcoscorreamelo\SK8TOONY\PWBE\API Web SK8TOONY\obj\Debug\net8.0\API Web SK8TOONY.pdb
 C:\Users\aluno\Documents\marcoscorreamelo\SK8TOONY\PWBE\API Web SK8TOONY\obj\Debug\net8.0\API Web SK8TOONY.genruntimeconfig.cache
 C:\Users\aluno\Documents\marcoscorreamelo\SK8TOONY\PWBE\API Web SK8TOONY\obj\Debug\net8.0\ref\API Web SK8TOONY.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\API Web SK8TOONY.exe
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\API Web SK8TOONY.deps.json
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\API Web SK8TOONY.runtimeconfig.json
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\API Web SK8TOONY.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\API Web SK8TOONY.pdb
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\API Web SK8TOONY.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\API Web SK8TOONY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\API Web SK8TOONY.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\API Web SK8TOONY.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\API Web SK8TOONY.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\API Web SK8TOONY.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\API Web SK8TOONY.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\API Web SK8TOONY.sourcelink.json
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\staticwebassets\msbuild.API Web SK8TOONY.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API Web SK8TOONY.props
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API Web SK8TOONY.props
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API Web SK8TOONY.props
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\scopedcss\bundle\API Web SK8TOONY.styles.css
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\API Web SK8TOONY.csproj.CopyComplete
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\API Web SK8TOONY.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\refint\API Web SK8TOONY.dll
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\API Web SK8TOONY.pdb
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\API Web SK8TOONY.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Guilherme_Ribeiro_3DS\PWBE\SK8TOONY\PWBE\API\obj\Debug\net8.0\ref\API Web SK8TOONY.dll
