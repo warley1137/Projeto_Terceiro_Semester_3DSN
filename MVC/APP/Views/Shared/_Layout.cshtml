@@ -11,24 +11,39 @@
     <link rel="stylesheet" href="~/css/nice-select.css">
     <link rel="stylesheet" href="~/css/animate.css">
     <link rel="stylesheet" href="~/css/style.css">
-@*     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="#" asp-append-version="true" />
-    <link rel="stylesheet" href="~/APP.styles.css" asp-append-version="true" /> *@
+	<link rel="stylesheet" href="~/APP.styles.css" asp-append-version="true" />
+	@* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+		<link rel="stylesheet" href="#" asp-append-version="true" /> *@
 </head>
-<body>
-    <header>
-        <nav class="nav-menu">
-            <ul class="nav-list">
-                <a class="logo" asp-area="" asp-controller="Home" asp-action="Index"><img src="~/img/logo.svg" alt="logo"></a>
-                <li></li>
-                <li><a asp-area="" asp-controller="Home" asp-action="Index">HOME</a></li>
-                <li><a href="#">Serviços</a></li>
-                <li><a href="#">Loja</a></li>
-                <li><a href="#">Galeria</a></li>
-                <li><a href="#">Contatos</a></li>
-                <li><a href="#">Cadrastro</a></li>
-            </ul>
-        </nav>
+<body id="home" class="inner-scroll">
+	<!--================ PRELOADER ================-->
+	<div class="preloader-cover">
+		<div class="preloader">
+			<span></span>
+			<span></span>
+			<span></span>
+			<span></span>
+		</div>
+	</div>
+	<!--============== PRELOADER END ==============-->
+	<header class="header">
+		<div class="header-menu">
+			<div class="container">
+				<a href="/" class="logo"><img src="/img/logo.svg" alt="logo"></a>
+				<nav class="nav-menu">
+					<ul class="nav-list">
+						<li><a href="/">Home </a></li>
+						<li><a href="services.html">Serviços</a></li>
+						<li><a href="shop.html">Loja</a></li>
+						<li><a href="gallery.html">Galeria</a></li>
+						<li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i><span>0</span></a></li>
+						<li><a href="#"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a></li>
+						<li><a href="/Login" class="btn-sign-in">Login</a></li>
+						<li><a href="/Cadastrar" class="btn-sign-up">Cadastrar</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
     </header>
 
 	<div class="main">

@@ -189,6 +189,14 @@
       "PackagePath": "staticwebassets\\img\\bg-header.svg"
     },
     {
+      "Id": "D:\\marcoscorreademelo\\Projects\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg-login-no-border.png",
+      "PackagePath": "staticwebassets\\img\\bg-login-no-border.png"
+    },
+    {
+      "Id": "D:\\marcoscorreademelo\\Projects\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg-login.png",
+      "PackagePath": "staticwebassets\\img\\bg-login.png"
+    },
+    {
       "Id": "D:\\marcoscorreademelo\\Projects\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg-section-banner.jpg",
       "PackagePath": "staticwebassets\\img\\bg-section-banner.jpg"
     },
@@ -211,6 +219,10 @@
     {
       "Id": "D:\\marcoscorreademelo\\Projects\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg-subscribe.jpg",
       "PackagePath": "staticwebassets\\img\\bg-subscribe.jpg"
+    },
+    {
+      "Id": "D:\\marcoscorreademelo\\Projects\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bg.webp",
+      "PackagePath": "staticwebassets\\img\\bg.webp"
     },
     {
       "Id": "D:\\marcoscorreademelo\\Projects\\SK8TOONY\\MVC\\APP\\wwwroot\\img\\bike-banner.png",
