@@ -74,3 +74,5 @@ D:\marcoscorreademelo\Projects\SK8TOONY\MVC\APP\obj\Debug\net8.0\refint\APP.dll
 D:\marcoscorreademelo\Projects\SK8TOONY\MVC\APP\obj\Debug\net8.0\APP.pdb
 D:\marcoscorreademelo\Projects\SK8TOONY\MVC\APP\obj\Debug\net8.0\APP.genruntimeconfig.cache
 D:\marcoscorreademelo\Projects\SK8TOONY\MVC\APP\obj\Debug\net8.0\ref\APP.dll
+D:\marcoscorreademelo\Projects\SK8TOONY\MVC\APP\obj\Debug\net8.0\scopedcss\Views\Home\Index.cshtml.rz.scp.css
+D:\marcoscorreademelo\Projects\SK8TOONY\MVC\APP\obj\Debug\net8.0\scopedcss\Views\Login\Index.cshtml.rz.scp.css
