@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API Web SK8TOONY")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8148d4fea08663ee4c4c9629ba04636aa2c3a6fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba23c6388f32e6efed2adff8f117ef5cfbe6db34")]
 [assembly: System.Reflection.AssemblyProductAttribute("API Web SK8TOONY")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API Web SK8TOONY")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
