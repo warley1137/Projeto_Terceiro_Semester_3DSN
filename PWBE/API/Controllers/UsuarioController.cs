@@ -12,7 +12,7 @@ namespace API_Web_SK8TOONY.Controllers
 		[HttpPost]
 		public IActionResult cadastrar([FromBody] Usuario usuario)
 		{
-			MySqlConnection connection = new MySqlConnection("server=localhost;database=sk8toony;uid=root;pwd=");
+			MySqlConnection connection = new MySqlConnection(ConnectionDB.stringConnection());
 			MySqlCommand sql = new MySqlCommand("INSERT INTO usuario (Nome, Sobrenome, Username, Genero, DataNasc, CPF, Imagem) VALUES(@nome, @sobrenome, @username, @genero, @dataNasc, @cpf, @imagem);", connection);
 			sql.Parameters.AddWithValue("@nome", usuario._nome);
 			sql.Parameters.AddWithValue("@sobrenome", usuario._sobrenome);
@@ -41,7 +41,7 @@ namespace API_Web_SK8TOONY.Controllers
 		[HttpDelete("{id}")] //Indicação que o método irá receber um valor do ID
 		public IActionResult remover(int id)
 		{ //Valor que será recebido
-			MySqlConnection connection = new MySqlConnection("server=ESN509VMYSQL;database=sk8toony;uid=aluno;pwd=Senai1234");
+			MySqlConnection connection = new MySqlConnection(ConnectionDB.stringConnection());
 			MySqlCommand sql = new MySqlCommand("DELETE FROM usuario WHERE id = @id;", connection);
 			sql.Parameters.AddWithValue("@id", id); //Passar o valor do @id
 			
@@ -64,7 +64,7 @@ namespace API_Web_SK8TOONY.Controllers
 		[HttpPut]
 		public IActionResult atualizar([FromBody] Usuario usuario)
 		{
-			MySqlConnection connection = new MySqlConnection("server=localhost;database=sk8toony;uid=root;pwd=");
+			MySqlConnection connection = new MySqlConnection(ConnectionDB.stringConnection());
 			MySqlCommand sql = new MySqlCommand("UPDATE usuario SET nome = @nome, sobrenome = @sobrenome, username = @username, genero = @genero, dataNasc = @dataNasc, cpf = @cpf, imagem = @imagem WHERE id = @id;", connection);
 			sql.Parameters.AddWithValue("@nome", usuario._nome);
 			sql.Parameters.AddWithValue("@sobrenome", usuario._sobrenome);
@@ -92,7 +92,7 @@ namespace API_Web_SK8TOONY.Controllers
 		[HttpGet]
 		public IActionResult buscarTodos()
 		{
-			MySqlConnection connection = new MySqlConnection("server=localhost;database=sk8toony;uid=root;pwd=");
+			MySqlConnection connection = new MySqlConnection(ConnectionDB.stringConnection());
 			MySqlCommand sql = new MySqlCommand("SELECT * FROM usuario;", connection);
 			List<Usuario> lista = new List<Usuario>(); //Criar uma lista para receber os usuários cadastrados no banco de dados
 
@@ -129,7 +129,7 @@ namespace API_Web_SK8TOONY.Controllers
 		[HttpGet]
 		public IActionResult buscarTodos(int id)
 		{
-			MySqlConnection connection = new MySqlConnection("server=localhost;database=sk8toony;uid=root;pwd=");
+			MySqlConnection connection = new MySqlConnection(ConnectionDB.stringConnection());
 			MySqlCommand sql = new MySqlCommand("SELECT * FROM usuario WHERE id = @id;", connection);
 			sql.Parameters.AddWithValue("@id", id);
 			

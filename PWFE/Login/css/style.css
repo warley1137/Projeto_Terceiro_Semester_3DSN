@@ -2,7 +2,8 @@
     --bg-color: #1D1724;
     --second-bg-color: #A09FA5;
     --third-bg-color: #E1E1E3;
-    --text-color: white;
+    --text-color: rgb(0, 0, 0);
+    --second-text-color: rgb(255, 255, 255);
     --main-color: #E0463D;
 }
 
@@ -20,20 +21,29 @@
 }
 
 .left {
-    background-image: url('../img/bg.webp');
-    background-size: cover;
-    opacity: 0.4;
+    background-image: url('../img/background-login.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    opacity: 0.8;
     width: 100%;
+    display: flex;
 }
 
-.left h2 {
-    opacity: 0;
-
+.sk8-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
+
+.sk8-center h1 {
+    font-size: 7rem;
+    background: -webkit-linear-gradient(left, #0F19FF, #FF0000);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
 
 .right {
-    background-image: url('../img/bg-login.png');
-    background-size: cover;
     width: 40%;
     display: flex;
     flex-direction: column;
@@ -43,8 +53,7 @@
 
 .right h1 {
     font-size: 2rem;
-    margin-top: 16rem;
-    opacity: .4;
+    margin-top: 10rem;
 }
 
 .right .login {
@@ -96,7 +105,7 @@ form input {
     width: 100%;
     font-size: 1rem;
     background-color: var(--main-color);
-    color: var(--text-color);
+    color: var(--second-text-color);
     border: none;
     margin-top: 1rem;
     margin-bottom: .5rem;
@@ -117,10 +126,6 @@ form input {
     align-items: center;
     justify-content: center;
     width: 100%;
-}
-
-.login-with h2 {
-    opacity: .4;
 }
 
 .group-buttons {
@@ -180,7 +185,6 @@ form input {
     }
 
     .right {
-        background-image: url('../img/bg-login-no-border.png');
         width: 100%;
         height: 100vh;
     }
